@@ -179,7 +179,7 @@ get_header();
                         </div>
                     </article>
                 </div>
-            </div>
+            </div> 
         </section>
 
         <section class="section section--tight" data-reveal>
@@ -200,6 +200,6 @@ get_header();
                     </div>
                 </div>
             </div>
-        </section>
+        </section> 
     
 <?php  get_footer(); ?>
