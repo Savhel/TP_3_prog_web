@@ -183,9 +183,9 @@ get_header();
         </section>
 
         <section class="section section--tight" data-reveal>
-            <div class="container">
+            <div class="container">    
                 <div class="layout-panel">
-                    <div class="layout-split">
+                    <div class="layout-split">   
                         <div>
                             <h2 class="section__title">Envie de rejoindre laventure&nbsp;?</h2>
                             <p>Nous recrutons des profils passionnés par lagriculture durable, la relation producteurs et la logistique responsable.</p>
